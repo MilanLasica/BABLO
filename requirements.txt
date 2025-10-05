@@ -1,0 +1,21 @@
+# BABLO Dependencies
+
+# Core dependencies
+python-dotenv>=1.0.0
+
+# Blockchain integration (optional, for full implementation)
+# web3>=6.0.0
+# eth-account>=0.9.0
+
+# Video processing (optional, for actual video generation)
+# opencv-python>=4.8.0
+# moviepy>=1.0.3
+
+# API clients
+requests>=2.31.0
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
